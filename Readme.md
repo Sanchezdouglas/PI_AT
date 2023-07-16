@@ -5,9 +5,9 @@
 
 # <h1 align=center>**`Análisis Exploratorio de Datos (EDA)`**</h1>
 
-<!--<p align="center">
-  <img src="src/DiagramaConceptualDelFlujoDeProcesos.jpg" alt="Diagrama de Flujo">
-</p>-->
+<p align="center">
+  <img src="src/1analisisexploratorio.png" alt="1analisisexploratorio">
+</p>
 
 
 
@@ -36,7 +36,7 @@
 <h2 align=center> Nuestro EDA se ha centrado en 6 puntos clave que nos permiten comprender mejor la adopción de Internet fijo en el país:** </h2> 
 <br/>
 <p align="center">
-  <img src="src/colocar direccion de foto" alt="">
+  <img src="src/punto1.png" alt="punto1">
 </p>
 
 ## `Internet fijo a nivel nacional`<br/>
@@ -46,38 +46,47 @@
 
 <br/>
 <p align="center">
-  <img src="src/colocar direccion de foto" alt="">
+  <img src="src/punto2.png" alt="punto2">
 </p>
 
-
-## `Total nacional de accesos a Internet fijo`:<br/>
+## `Total nacional de accesos a Internet fijo`<br/>
 
 2. Hemos examinado la `evolución de las suscripciones de banda ancha fija y dial-up` a lo largo de los años, destacando la preferencia de los usuarios por la banda ancha fija. Esto es útil para comprender la demanda de servicios de Internet y mejorar la calidad de las conexiones. 💻
 
 <br/>
 <p align="center">
-  <img src="src/colocar direccion de foto" alt="">
+  <img src="src/punto3.png" alt="punto3">
 </p>
 
-## `Evolución de las conexiones de Internet en Argentina:`:
+## `Evolución de las conexiones de Internet en Argentina`
 3. Hemos analizado la `evolución de las conexiones de Internet fijo en el país`, centrándonos en tipos como `ADSL, cablemódem, fibra óptica, wireless, entre otros`. Esto nos permite identificar las tecnologías más utilizadas y comprender las tendencias en el uso de Internet en Argentina. 📡
 
 
+<br/>
 <p align="center">
-  <img src="src/colocar direccion de foto" alt="n">
+  <img src="src/punto4.png" alt="punto4">
 </p>
 
-## `Distribución de accesos a Internet fijo por velocidad en provincias: `: <br/>
+## `Distribución de accesos a Internet fijo por velocidad en provincias ` <br/>
 
 4. Hemos examinado la distribución de los `accesos a Internet fijo en diferentes provincias` según la velocidad de bajada. Esto es útil para identificar las provincias con mayor consumo de velocidad y permitir a los proveedores adaptar sus ofertas y mejorar la calidad del servicio. ⚡️
 
+<br/>
+<p align="center">
+  <img src="src/punto5.png" alt="punto5">
+</p>
 
-## `Análisis de los ingresos anuales:` <br/>
+## `Análisis de los ingresos anuales` <br/>
 
 5. Hemos explorado los `ingresos anuales y destacado el año 2022` como el de mayor ingreso. Esto nos brinda una visión general de la evolución de los ingresos y nos ayuda a tomar decisiones empresariales informadas. 💰
 
+<br/>
+<p align="center">
+  <img src="src/punto6.png" alt="punto6">
+</p>
 
 ## `Conectividad en Argentina y el potencial del 5G` <br/>
+
 
 6. Hemos analizado las conexiones más comunes en Argentina, como `ADSL, cablemódem, fibra óptica, 4G`, entre otras, y hemos explorado el potencial del `5G`. Destacamos la `fibra óptica` como una de las conexiones más avanzadas, seguida de cerca por el `4G` y la conexión inalámbrica. Discutimos las ventajas y desafíos del despliegue del `5G` en el país. 🌐
 
