@@ -88,6 +88,7 @@
 ## `Conectividad en Argentina y el potencial del 5G` <br/>
 
 
+
 6. Hemos analizado las conexiones más comunes en Argentina, como `ADSL, cablemódem, fibra óptica, 4G`, entre otras, y hemos explorado el potencial del `5G`. Destacamos la `fibra óptica` como una de las conexiones más avanzadas, seguida de cerca por el `4G` y la conexión inalámbrica. Discutimos las ventajas y desafíos del despliegue del `5G` en el país. 🌐
 
 En resumen, nuestro proyecto de `EDA` sobre las `telecomunicaciones en Argentina` ofrece un análisis exhaustivo de la adopción de Internet fijo en el país. Hemos explorado `tendencias, comparaciones y patrones clave, brindando información relevante` para la toma de decisiones en políticas públicas y estrategias empresariales. ¡Descubre más detalles en nuestro análisis! 📊🌐
@@ -101,7 +102,7 @@ Aquí encontrarás información adicional y recursos relacionados con nuestro pr
 
 
 4. `Acceso rápido:`
-- Visualize ETL [EDA.ipynb](.EDA.ipynb) notebook.
+- Visualize ETL [EDA.ipynb](https://github.com/Sanchezdouglas/PI_AT/blob/main/EDA.ipynb) notebook.
 
 
 <br/>
